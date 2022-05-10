@@ -1,1 +1,1 @@
-*_Invoice Genearator_*
+*_Invoice Generator_*
